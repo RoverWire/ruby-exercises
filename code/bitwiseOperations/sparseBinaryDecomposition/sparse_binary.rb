@@ -26,7 +26,7 @@ end
 
 # Return a complete set of sparse binary decomposition
 # of a number. This is a memory killer for big numbers.
-# this is an extra method made just for fun
+# This is an extra method made it just for fun.
 
 def full_sparse_decomposition(int)
   start = (int / 2).ceil
