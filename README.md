@@ -1,2 +1,3 @@
-# ruby-exercises
-Ruby exercises for practice 
+# Ruby Exercises
+
+Ruby exercises and solutions from some challenges.
